@@ -1,0 +1,27 @@
+[ 
+    {
+        "name": "Google Pay",
+        "type": "UPI"
+      },
+      {
+        "name": "Visa Card",
+        "type": "card"
+      },
+      {
+        "name": "Amazon Pay",
+        "type": "UPI"
+      },
+      {
+        "name": "Phone Pay",
+        "type": "UPI"
+      },
+   
+      {
+        "name": "Master Card",
+        "type": "card"
+      },
+      {
+        "name": "Rupay Card",
+        "type": "card"
+      }
+  ]
